@@ -23,7 +23,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println(scopeCar.getEngineA().hashCode());
         System.out.println(scopeCar.getEngineB().hashCode());
 
-        /**
+        /** @Inject和@Module都可以提供依赖，那如果我们即在构造函数上通过标记@Inject提供依赖，有通过@Module提供依赖Dagger2会如何选择呢？具体规则如下
+         *  @Module 优先级高于 @Inject
          * <pre>
          *   步骤1：首先查找@Module标注的类中是否存在提供依赖的方法。
          *

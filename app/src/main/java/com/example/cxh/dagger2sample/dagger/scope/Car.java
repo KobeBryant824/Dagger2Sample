@@ -5,7 +5,7 @@ package com.example.cxh.dagger2sample.dagger.scope;
 import javax.inject.Inject;
 
 /**
- * Desc:
+ * Desc: 此包用于演示@Scope
  * Created by Hai (haigod7@gmail.com) on 2017/6/5 14:17.
  */
 public class Car {
@@ -20,10 +20,10 @@ public class Car {
     }
 
     public Engine getEngineA() {
-        return this.engineA;
+        return engineA;
     }
 
     public Engine getEngineB() {
-        return this.engineB;
+        return engineB;
     }
 }

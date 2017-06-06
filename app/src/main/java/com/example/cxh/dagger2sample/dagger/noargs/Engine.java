@@ -3,7 +3,7 @@ package com.example.cxh.dagger2sample.dagger.noargs;
 import javax.inject.Inject;
 
 /**
- * Desc:
+ * Desc: 无参的构造函数
  * Created by Hai (haigod7@gmail.com) on 2017/6/5 14:17.
  */
 public class Engine {
