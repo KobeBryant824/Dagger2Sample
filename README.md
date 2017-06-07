@@ -2,8 +2,8 @@
 - [Dagger2](https://github.com/google/dagger)
 - [神兵利器Dagger2](https://zhuanlan.zhihu.com/p/24454466)
 
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
+### 开源许可 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ```
 Copyright 2017 XinHai Chen
 
